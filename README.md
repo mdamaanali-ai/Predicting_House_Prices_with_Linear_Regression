@@ -2,9 +2,6 @@
 
 An interactive Streamlit app that takes a housing dataset from raw data to a working price predictor: EDA, feature selection, a Linear Regression model, evaluation, coefficient analysis and a Ridge/Lasso comparison.
 
-**🔗 Live demo:** _add your Streamlit link here_
-
-![App screenshot](screenshots/app.png)
 
 ## ✨ Features
 - **EDA:** null check, descriptive statistics, target (price) distribution
@@ -53,6 +50,14 @@ _Run the app on your dataset and add your own numbers here, for example:_
 - Area and location are typically the strongest price drivers.
 - Residuals should look like a random cloud around 0; patterns suggest non-linearity.
 - Ridge/Lasso help when features are highly correlated (multicollinearity).
+
+- 
+<p align="center">
+  <a href="https://predictinghousepriceswithlinearregression-mrh6dgdpnnijbavmmrk6.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Launch-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Live Demo"/>
+  </a>
+</p>
+
 
 ## 👤 Author
 **mdamaanali-ai** · [GitHub](https://github.com/mdamaanali-ai)
