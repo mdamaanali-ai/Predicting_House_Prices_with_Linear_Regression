@@ -51,7 +51,7 @@ _Run the app on your dataset and add your own numbers here, for example:_
 - Residuals should look like a random cloud around 0; patterns suggest non-linearity.
 - Ridge/Lasso help when features are highly correlated (multicollinearity).
 
-- 
+## LIVE DEMO
 <p align="center">
   <a href="https://predictinghousepriceswithlinearregression-mrh6dgdpnnijbavmmrk6.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Launch-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Live Demo"/>
